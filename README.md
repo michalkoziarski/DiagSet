@@ -1,6 +1,6 @@
 # Python container for DiagSet-A dataset 
 
-Python container for DiagSet-A, a dataset for prostate cancer histopathological image classification available at https://ai-econsilio.diag.pl/.
+Python container for DiagSet-A, a dataset for prostate cancer histopathological image classification available at https://ai-econsilio.diag.pl/. More detailed description of the dataset can be found at https://arxiv.org/abs/2105.04014.
 
 ## Sample usage
 
