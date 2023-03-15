@@ -15,7 +15,7 @@ In case of any problems with accessing the website you can either email the [web
 
 ## DiagSet-A container
 
-For easier access to the data we prepared a Python container for loading the patches from raw data files.
+For easier access to the data we prepared a Python container for loading the patches from raw data files. It can be found [here](diagset-a-container).
 
 ## Publication
 
