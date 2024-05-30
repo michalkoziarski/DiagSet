@@ -19,12 +19,16 @@ For easier access to the data we prepared a Python container for loading the pat
 
 ## Publication
 
-More detailed description about the dataset and the conducted experiments can be found at <https://arxiv.org/abs/2105.04014>. To cite the dataset, you can use:
+More detailed description about the dataset and the conducted experiments can be found at <https://www.nature.com/articles/s41598-024-52183-4>. To cite the dataset, you can use:
 ```bibtex
-@article{koziarski2021diagset,
+@article{koziarski2024diagset,
   title={DiagSet: a dataset for prostate cancer histopathological image classification},
-  author={Koziarski, Micha{\l} and Cyganek, Bogus{\l}aw and Olborski, Bogus{\l}aw and Antosz, Zbigniew and {\.Z}ydak, Marcin and Kwolek, Bogdan and W{\k{a}}sowicz, Pawe{\l} and Buka{\l}a, Andrzej and Swad{\'z}ba, Jakub and Sitkowski, Piotr},
-  journal={arXiv preprint arXiv:2105.04014},
-  year={2021}
+  author={Koziarski, Micha{\l} and Cyganek, Bogus{\l}aw and Niedziela, Przemys{\l}aw and Olborski, Bogus{\l}aw and Antosz, Zbigniew and {\.Z}ydak, Marcin and Kwolek, Bogdan and W{\k{a}}sowicz, Pawe{\l} and Buka{\l}a, Andrzej and Swad{\'z}ba, Jakub and others},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={6780},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
 }
 ```
